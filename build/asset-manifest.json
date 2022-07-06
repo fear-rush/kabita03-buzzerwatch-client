@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ab4b2c39.css",
+    "main.js": "/static/js/main.f7cdc68c.js",
+    "static/media/campaign.png": "/static/media/campaign.2764037873d65ecab485.png",
+    "static/media/Aya.jpg": "/static/media/Aya.c08c11366d85718e3210.jpg",
+    "index.html": "/index.html",
+    "main.ab4b2c39.css.map": "/static/css/main.ab4b2c39.css.map",
+    "main.f7cdc68c.js.map": "/static/js/main.f7cdc68c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ab4b2c39.css",
+    "static/js/main.f7cdc68c.js"
+  ]
+}
