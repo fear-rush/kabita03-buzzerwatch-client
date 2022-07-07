@@ -8,7 +8,9 @@ const Table = (props) => {
               <tr>
                 <th scope="col">Tweets Raw</th>
                 <th scope="col">Sentiment</th>
-                <th scope="col">Percentage</th>
+                <th scope="col">Positive</th>
+                <th scope="col">Neutral</th>
+                <th scope="col">Negative</th>
               </tr>
             </thead>
             <tbody>
@@ -16,7 +18,9 @@ const Table = (props) => {
                     <tr key={i}>
                         <td style={{textAlign:'left'}}>{data.raw}</td>
                         <td>{data.sentiment}</td>
-                        <td>{data.percentage}%</td>
+                        <td>{data.pos}%</td>
+                        <td>{data.neu}%</td>
+                        <td>{data.neg}%</td>
                     </tr>
                 ))}
               
