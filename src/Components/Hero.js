@@ -4,7 +4,7 @@ import Table from "./Table";
 import { Link } from "react-scroll";
 import { PieChart } from 'react-minimal-pie-chart';
 
-const url = 'http://127.0.0.1:5000/twitter'
+const url = 'https://buzzerwatchserverr.azurewebsites.net/twitter'
 
 const options = [
     { title: 'Netral', value: 0, color: '#2196f3', percentage:0},
